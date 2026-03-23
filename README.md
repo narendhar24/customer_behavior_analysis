@@ -12,11 +12,13 @@ Behavioral data (Discounts, Frequency, Ratings, Shipping Type)
 Data Issues Handled:
 Missing values in review ratings
 Data consistency and formatting
+
 🛠️ Tools & Technologies
 Python (Pandas, NumPy) – Data cleaning & EDA
 SQL (PostgreSQL / MySQL / SQL Server) – Data analysis
 Power BI – Dashboard & visualization
 Gamma – Presentation (PPT/report)
+
 ⚙️ Project Steps
 1. Data Loading & Cleaning (Python)
 Imported dataset using pandas
@@ -41,11 +43,13 @@ Product performance
 Purchase behavior
 5. Reporting
 Created a presentation summarizing insights and business recommendations
+
 📊 Results & Insights
 Certain customer segments contribute significantly more revenue
 Discounts influence purchase behavior but need optimization
 Loyal customers and subscribers generate higher value
 Top-rated products align with higher sales performance
+
 ▶️ How to Run
 Clone the repository
 git clone <your-repo-link>
